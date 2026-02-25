@@ -1,0 +1,3 @@
+﻿  Clock.cpp
+C:\Users\captz\source\repos\CS210 Project One - Scott\CS210 Project One - Scott\Clock.cpp(184,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CS210 Project One - Scott.vcxproj -> C:\Users\captz\source\repos\CS210 Project One - Scott\x64\Debug\CS210 Project One - Scott.exe

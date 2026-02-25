@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CS210 Module 5 Assignment/CS210 Module 5 Assignment.vcxproj" />
+</Solution>

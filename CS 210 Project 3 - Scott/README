@@ -1,0 +1,43 @@
+Produce Inventory Manager
+A simple C++ console application that reads a list of purchased items from a text file and tracks quantities of produce using object-oriented programming.
+
+Author:
+	Alexandria D. Scott – SNHU – CS 210
+
+Features:
+  -	Reads items sold from text file (one item per line)
+  -	Automatically groups identical items and counts occurrences
+  -	Supports basic produce tracking
+    o	Name & quantity
+    o	Name & histogram
+    o	Search by name
+  -	Creates backup file of item names and frequencies
+
+Project Structure
+  Project_root/
+    |--Project3.cpp
+    |--Produce.h
+    |--Produce.cpp
+    |--Inventory.h
+    |--Inventory.cpp
+    |--Items_Shopped.txt
+    |--frequencies.dat
+ 
+Design Overview
+  -	Produce class represents one type of item (name & count)
+  -	Inventory class manages a collection of Produce instances
+    o	Checks for duplicates
+    o	Increments count when item already exist
+    o	Prints names and counts of items
+    o	Searches based on name and displays information
+  -	Creates backup in new file
+  -	User interaction takes place in main function
+  
+Limitations
+  -	Linear search will be slow for very large lists
+  -	No sorting output ability
+  -	Minimal error handling
+    o	Error handling for main menu is complete
+    o	No error handling for capitalization errors in search function
+  -	No ability to change data from menu
+

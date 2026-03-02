@@ -1,0 +1,24 @@
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+In a school setting, I interpret user needs primarily through the rubric. It gives me a broad sense of what the user is looking for, and then I can dig into the
+specific conditions within each section. For example, a rubric category like "User Validation" might include more detailed requirements such as "validate that 
+the user enters a number" or "display an error message when incorrect input is given." That helps me build a user story around those ideas—something like: "As 
+a user, I want an error message when I provide incorrect input so that I understand what went wrong and can fix it when prompted again." This approach does more 
+than just outline the feature; it gives me the reasoning behind it. I realize I’m not just supposed to flag bad input—I need to explain why it's wrong, which in 
+turn helps clarify what kind of input the program actually expects. That deeper understanding leads to a much better final product.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+In my future school projects, I plan to take an iterative approach when working on assignments. I'll start by creating a sort of "product backlog" when I first 
+review the project requirements, listing out everything that needs to be done. Then each day, I'll select a few items to focus on—treating those as my sprints. 
+This way, I can make sure every aspect gets completed by the due date without feeling like I have to tackle the whole project in one sitting. It will also help 
+me get better at judging how long tasks take, since I'll have a clearer sense of how similar work has gone for me in the past.
+
+
+
+What does it mean to be a good team member in software development?
+To be a good team member in software development, I need to listen, contribute, and continuously develop myself. By truly listening to my coworkers and the client,
+I can better understand what actually needs to be done, which helps me focus my energy on what matters instead of getting sidetracked by things that aren't important. 
+That listening naturally leads into the contributing aspect of the job. Even as an entry-level team member, my input still matters—good ideas can come from anyone, 
+and speaking up helps build a stronger project. At the same time, if I offer a suggestion that someone else disagrees with, I need to listen to their reasoning so I 
+can either adjust my thinking or have a productive conversation about why my idea might still work. Finally, I have to keep developing myself. Programming languages 
+and technology are always evolving, and it's my responsibility to keep learning so I can continue offering better contributions to my team and building better products 
+for my clients.
